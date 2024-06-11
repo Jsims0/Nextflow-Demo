@@ -1,0 +1,3 @@
+Jun-12 00:38:54.838 [main] INFO  com.askimed.nf.test.App - nf-test 0.8.4
+Jun-12 00:38:54.867 [main] INFO  com.askimed.nf.test.App - Arguments: [init]
+Jun-12 00:38:57.478 [main] INFO  com.askimed.nf.test.App - Nextflow Version: 24.04.2
