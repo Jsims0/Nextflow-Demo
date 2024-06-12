@@ -1,0 +1,16 @@
+{
+    "Should run without failures": {
+        "content": [
+            {
+                "0": [
+                    "/Users/simonmurray/Documents/Nextflow-Demo/.nf-test/tests/5f10aa43fb0dbc0440c01fc790c9265d/work/68/647b1b970d060528db97a78164b5e0/CCDS.vcf"
+                ]
+            }
+        ],
+        "meta": {
+            "nf-test": "0.8.4",
+            "nextflow": "24.04.2"
+        },
+        "timestamp": "2024-06-12T19:55:57.445556"
+    }
+}
