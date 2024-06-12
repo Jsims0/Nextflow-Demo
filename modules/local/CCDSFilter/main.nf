@@ -1,4 +1,6 @@
 process CCDSFilter {
+   // VEP filter plugin that limits output to variants that fall 
+   // in transcripts which have Consensus Coding Sequences (CCDS) coding sequences
   
    input:
    tuple val(chrom), val(pos), val(id), val(ref), val(alt), val(qual), val(filter), val(info) 

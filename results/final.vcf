@@ -1,0 +1,353 @@
+##fileformat=VCFv4.2
+##ALT=<ID=CN0,Description="Copy number allele: 0 copies">
+##ALT=<ID=CN1,Description="Copy number allele: 1 copy">
+##ALT=<ID=CN10,Description="Copy number allele: 10 copies">
+##ALT=<ID=CN100,Description="Copy number allele: 100 copies">
+##ALT=<ID=CN101,Description="Copy number allele: 101 copies">
+##ALT=<ID=CN102,Description="Copy number allele: 102 copies">
+##ALT=<ID=CN103,Description="Copy number allele: 103 copies">
+##ALT=<ID=CN104,Description="Copy number allele: 104 copies">
+##ALT=<ID=CN105,Description="Copy number allele: 105 copies">
+##ALT=<ID=CN106,Description="Copy number allele: 106 copies">
+##ALT=<ID=CN107,Description="Copy number allele: 107 copies">
+##ALT=<ID=CN108,Description="Copy number allele: 108 copies">
+##ALT=<ID=CN109,Description="Copy number allele: 109 copies">
+##ALT=<ID=CN11,Description="Copy number allele: 11 copies">
+##ALT=<ID=CN110,Description="Copy number allele: 110 copies">
+##ALT=<ID=CN111,Description="Copy number allele: 111 copies">
+##ALT=<ID=CN112,Description="Copy number allele: 112 copies">
+##ALT=<ID=CN113,Description="Copy number allele: 113 copies">
+##ALT=<ID=CN114,Description="Copy number allele: 114 copies">
+##ALT=<ID=CN115,Description="Copy number allele: 115 copies">
+##ALT=<ID=CN116,Description="Copy number allele: 116 copies">
+##ALT=<ID=CN117,Description="Copy number allele: 117 copies">
+##ALT=<ID=CN118,Description="Copy number allele: 118 copies">
+##ALT=<ID=CN119,Description="Copy number allele: 119 copies">
+##ALT=<ID=CN12,Description="Copy number allele: 12 copies">
+##ALT=<ID=CN120,Description="Copy number allele: 120 copies">
+##ALT=<ID=CN121,Description="Copy number allele: 121 copies">
+##ALT=<ID=CN122,Description="Copy number allele: 122 copies">
+##ALT=<ID=CN123,Description="Copy number allele: 123 copies">
+##ALT=<ID=CN124,Description="Copy number allele: 124 copies">
+##ALT=<ID=CN13,Description="Copy number allele: 13 copies">
+##ALT=<ID=CN14,Description="Copy number allele: 14 copies">
+##ALT=<ID=CN15,Description="Copy number allele: 15 copies">
+##ALT=<ID=CN16,Description="Copy number allele: 16 copies">
+##ALT=<ID=CN17,Description="Copy number allele: 17 copies">
+##ALT=<ID=CN18,Description="Copy number allele: 18 copies">
+##ALT=<ID=CN19,Description="Copy number allele: 19 copies">
+##ALT=<ID=CN2,Description="Copy number allele: 2 copies">
+##ALT=<ID=CN20,Description="Copy number allele: 20 copies">
+##ALT=<ID=CN21,Description="Copy number allele: 21 copies">
+##ALT=<ID=CN22,Description="Copy number allele: 22 copies">
+##ALT=<ID=CN23,Description="Copy number allele: 23 copies">
+##ALT=<ID=CN24,Description="Copy number allele: 24 copies">
+##ALT=<ID=CN25,Description="Copy number allele: 25 copies">
+##ALT=<ID=CN26,Description="Copy number allele: 26 copies">
+##ALT=<ID=CN27,Description="Copy number allele: 27 copies">
+##ALT=<ID=CN28,Description="Copy number allele: 28 copies">
+##ALT=<ID=CN29,Description="Copy number allele: 29 copies">
+##ALT=<ID=CN3,Description="Copy number allele: 3 copies">
+##ALT=<ID=CN30,Description="Copy number allele: 30 copies">
+##ALT=<ID=CN31,Description="Copy number allele: 31 copies">
+##ALT=<ID=CN32,Description="Copy number allele: 32 copies">
+##ALT=<ID=CN33,Description="Copy number allele: 33 copies">
+##ALT=<ID=CN34,Description="Copy number allele: 34 copies">
+##ALT=<ID=CN35,Description="Copy number allele: 35 copies">
+##ALT=<ID=CN36,Description="Copy number allele: 36 copies">
+##ALT=<ID=CN37,Description="Copy number allele: 37 copies">
+##ALT=<ID=CN38,Description="Copy number allele: 38 copies">
+##ALT=<ID=CN39,Description="Copy number allele: 39 copies">
+##ALT=<ID=CN4,Description="Copy number allele: 4 copies">
+##ALT=<ID=CN40,Description="Copy number allele: 40 copies">
+##ALT=<ID=CN41,Description="Copy number allele: 41 copies">
+##ALT=<ID=CN42,Description="Copy number allele: 42 copies">
+##ALT=<ID=CN43,Description="Copy number allele: 43 copies">
+##ALT=<ID=CN44,Description="Copy number allele: 44 copies">
+##ALT=<ID=CN45,Description="Copy number allele: 45 copies">
+##ALT=<ID=CN46,Description="Copy number allele: 46 copies">
+##ALT=<ID=CN47,Description="Copy number allele: 47 copies">
+##ALT=<ID=CN48,Description="Copy number allele: 48 copies">
+##ALT=<ID=CN49,Description="Copy number allele: 49 copies">
+##ALT=<ID=CN5,Description="Copy number allele: 5 copies">
+##ALT=<ID=CN50,Description="Copy number allele: 50 copies">
+##ALT=<ID=CN51,Description="Copy number allele: 51 copies">
+##ALT=<ID=CN52,Description="Copy number allele: 52 copies">
+##ALT=<ID=CN53,Description="Copy number allele: 53 copies">
+##ALT=<ID=CN54,Description="Copy number allele: 54 copies">
+##ALT=<ID=CN55,Description="Copy number allele: 55 copies">
+##ALT=<ID=CN56,Description="Copy number allele: 56 copies">
+##ALT=<ID=CN57,Description="Copy number allele: 57 copies">
+##ALT=<ID=CN58,Description="Copy number allele: 58 copies">
+##ALT=<ID=CN59,Description="Copy number allele: 59 copies">
+##ALT=<ID=CN6,Description="Copy number allele: 6 copies">
+##ALT=<ID=CN60,Description="Copy number allele: 60 copies">
+##ALT=<ID=CN61,Description="Copy number allele: 61 copies">
+##ALT=<ID=CN62,Description="Copy number allele: 62 copies">
+##ALT=<ID=CN63,Description="Copy number allele: 63 copies">
+##ALT=<ID=CN64,Description="Copy number allele: 64 copies">
+##ALT=<ID=CN65,Description="Copy number allele: 65 copies">
+##ALT=<ID=CN66,Description="Copy number allele: 66 copies">
+##ALT=<ID=CN67,Description="Copy number allele: 67 copies">
+##ALT=<ID=CN68,Description="Copy number allele: 68 copies">
+##ALT=<ID=CN69,Description="Copy number allele: 69 copies">
+##ALT=<ID=CN7,Description="Copy number allele: 7 copies">
+##ALT=<ID=CN70,Description="Copy number allele: 70 copies">
+##ALT=<ID=CN71,Description="Copy number allele: 71 copies">
+##ALT=<ID=CN72,Description="Copy number allele: 72 copies">
+##ALT=<ID=CN73,Description="Copy number allele: 73 copies">
+##ALT=<ID=CN74,Description="Copy number allele: 74 copies">
+##ALT=<ID=CN75,Description="Copy number allele: 75 copies">
+##ALT=<ID=CN76,Description="Copy number allele: 76 copies">
+##ALT=<ID=CN77,Description="Copy number allele: 77 copies">
+##ALT=<ID=CN78,Description="Copy number allele: 78 copies">
+##ALT=<ID=CN79,Description="Copy number allele: 79 copies">
+##ALT=<ID=CN8,Description="Copy number allele: 8 copies">
+##ALT=<ID=CN80,Description="Copy number allele: 80 copies">
+##ALT=<ID=CN81,Description="Copy number allele: 81 copies">
+##ALT=<ID=CN82,Description="Copy number allele: 82 copies">
+##ALT=<ID=CN83,Description="Copy number allele: 83 copies">
+##ALT=<ID=CN84,Description="Copy number allele: 84 copies">
+##ALT=<ID=CN85,Description="Copy number allele: 85 copies">
+##ALT=<ID=CN86,Description="Copy number allele: 86 copies">
+##ALT=<ID=CN87,Description="Copy number allele: 87 copies">
+##ALT=<ID=CN88,Description="Copy number allele: 88 copies">
+##ALT=<ID=CN89,Description="Copy number allele: 89 copies">
+##ALT=<ID=CN9,Description="Copy number allele: 9 copies">
+##ALT=<ID=CN90,Description="Copy number allele: 90 copies">
+##ALT=<ID=CN91,Description="Copy number allele: 91 copies">
+##ALT=<ID=CN92,Description="Copy number allele: 92 copies">
+##ALT=<ID=CN93,Description="Copy number allele: 93 copies">
+##ALT=<ID=CN94,Description="Copy number allele: 94 copies">
+##ALT=<ID=CN95,Description="Copy number allele: 95 copies">
+##ALT=<ID=CN96,Description="Copy number allele: 96 copies">
+##ALT=<ID=CN97,Description="Copy number allele: 97 copies">
+##ALT=<ID=CN98,Description="Copy number allele: 98 copies">
+##ALT=<ID=CN99,Description="Copy number allele: 99 copies">
+##ALT=<ID=CNV,Description="Copy Number Polymorphism">
+##ALT=<ID=DEL,Description="Deletion">
+##ALT=<ID=DUP,Description="Duplication">
+##ALT=<ID=INS:ME:ALU,Description="Insertion of ALU element">
+##ALT=<ID=INS:ME:LINE1,Description="Insertion of LINE1 element">
+##ALT=<ID=INS:ME:SVA,Description="Insertion of SVA element">
+##ALT=<ID=INS:MT,Description="Nuclear Mitochondrial Insertion">
+##ALT=<ID=INV,Description="Inversion">
+##FILTER=<ID=PASS,Description="All filters passed">
+##INFO=<ID=AF,Number=A,Type=Float,Description="Estimated allele frequency in the range (0,1)">
+##bcftools_annotateCommand=annotate -x ^INFO/AF -O z -o /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/genome1K.phase3.SNP_AF5e4_lite.chr1toX.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/genome1K.phase3.SNP_AF5e4.chr1toX.vcf.gz; Date=Sat Nov 17 15:43:16 2018
+##bcftools_annotateVersion=1.7+htslib-1.7
+##bcftools_concatCommand=concat -Oz -o /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/genome1K.phase3.SNP_All.chr1toX.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr1.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr2.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr3.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr4.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr5.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr6.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr7.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr8.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr9.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr10.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr11.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr12.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr13.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr14.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr15.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr16.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr17.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr18.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr19.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr20.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr21.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr22.vcf.gz /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chrX.vcf.gz; Date=Sat Nov 17 10:18:00 2018
+##bcftools_concatVersion=1.7+htslib-1.7
+##bcftools_viewCommand=view -i 'AF>0.0 & TYPE="snp"' -s . -O z -o /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL_SNP.chr1.vcf.gz --force-samples /hps/nobackup/stegle/users/huangh/donorID/genotypes/genome1K/chroms/ALL.chr1.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz; Date=Sat Nov 17 09:36:38 2018
+##bcftools_viewVersion=1.7+htslib-1.7
+##contig=<ID=1,assembly=b37,length=249250621>
+##contig=<ID=2,assembly=b37,length=243199373>
+##contig=<ID=3,assembly=b37,length=198022430>
+##contig=<ID=4,assembly=b37,length=191154276>
+##contig=<ID=5,assembly=b37,length=180915260>
+##contig=<ID=6,assembly=b37,length=171115067>
+##contig=<ID=7,assembly=b37,length=159138663>
+##contig=<ID=8,assembly=b37,length=146364022>
+##contig=<ID=9,assembly=b37,length=141213431>
+##contig=<ID=10,assembly=b37,length=135534747>
+##contig=<ID=11,assembly=b37,length=135006516>
+##contig=<ID=12,assembly=b37,length=133851895>
+##contig=<ID=13,assembly=b37,length=115169878>
+##contig=<ID=14,assembly=b37,length=107349540>
+##contig=<ID=15,assembly=b37,length=102531392>
+##contig=<ID=16,assembly=b37,length=90354753>
+##contig=<ID=17,assembly=b37,length=81195210>
+##contig=<ID=18,assembly=b37,length=78077248>
+##contig=<ID=19,assembly=b37,length=59128983>
+##contig=<ID=20,assembly=b37,length=63025520>
+##contig=<ID=21,assembly=b37,length=48129895>
+##contig=<ID=22,assembly=b37,length=51304566>
+##contig=<ID=GL000191.1,assembly=b37,length=106433>
+##contig=<ID=GL000192.1,assembly=b37,length=547496>
+##contig=<ID=GL000193.1,assembly=b37,length=189789>
+##contig=<ID=GL000194.1,assembly=b37,length=191469>
+##contig=<ID=GL000195.1,assembly=b37,length=182896>
+##contig=<ID=GL000196.1,assembly=b37,length=38914>
+##contig=<ID=GL000197.1,assembly=b37,length=37175>
+##contig=<ID=GL000198.1,assembly=b37,length=90085>
+##contig=<ID=GL000199.1,assembly=b37,length=169874>
+##contig=<ID=GL000200.1,assembly=b37,length=187035>
+##contig=<ID=GL000201.1,assembly=b37,length=36148>
+##contig=<ID=GL000202.1,assembly=b37,length=40103>
+##contig=<ID=GL000203.1,assembly=b37,length=37498>
+##contig=<ID=GL000204.1,assembly=b37,length=81310>
+##contig=<ID=GL000205.1,assembly=b37,length=174588>
+##contig=<ID=GL000206.1,assembly=b37,length=41001>
+##contig=<ID=GL000207.1,assembly=b37,length=4262>
+##contig=<ID=GL000208.1,assembly=b37,length=92689>
+##contig=<ID=GL000209.1,assembly=b37,length=159169>
+##contig=<ID=GL000210.1,assembly=b37,length=27682>
+##contig=<ID=GL000211.1,assembly=b37,length=166566>
+##contig=<ID=GL000212.1,assembly=b37,length=186858>
+##contig=<ID=GL000213.1,assembly=b37,length=164239>
+##contig=<ID=GL000214.1,assembly=b37,length=137718>
+##contig=<ID=GL000215.1,assembly=b37,length=172545>
+##contig=<ID=GL000216.1,assembly=b37,length=172294>
+##contig=<ID=GL000217.1,assembly=b37,length=172149>
+##contig=<ID=GL000218.1,assembly=b37,length=161147>
+##contig=<ID=GL000219.1,assembly=b37,length=179198>
+##contig=<ID=GL000220.1,assembly=b37,length=161802>
+##contig=<ID=GL000221.1,assembly=b37,length=155397>
+##contig=<ID=GL000222.1,assembly=b37,length=186861>
+##contig=<ID=GL000223.1,assembly=b37,length=180455>
+##contig=<ID=GL000224.1,assembly=b37,length=179693>
+##contig=<ID=GL000225.1,assembly=b37,length=211173>
+##contig=<ID=GL000226.1,assembly=b37,length=15008>
+##contig=<ID=GL000227.1,assembly=b37,length=128374>
+##contig=<ID=GL000228.1,assembly=b37,length=129120>
+##contig=<ID=GL000229.1,assembly=b37,length=19913>
+##contig=<ID=GL000230.1,assembly=b37,length=43691>
+##contig=<ID=GL000231.1,assembly=b37,length=27386>
+##contig=<ID=GL000232.1,assembly=b37,length=40652>
+##contig=<ID=GL000233.1,assembly=b37,length=45941>
+##contig=<ID=GL000234.1,assembly=b37,length=40531>
+##contig=<ID=GL000235.1,assembly=b37,length=34474>
+##contig=<ID=GL000236.1,assembly=b37,length=41934>
+##contig=<ID=GL000237.1,assembly=b37,length=45867>
+##contig=<ID=GL000238.1,assembly=b37,length=39939>
+##contig=<ID=GL000239.1,assembly=b37,length=33824>
+##contig=<ID=GL000240.1,assembly=b37,length=41933>
+##contig=<ID=GL000241.1,assembly=b37,length=42152>
+##contig=<ID=GL000242.1,assembly=b37,length=43523>
+##contig=<ID=GL000243.1,assembly=b37,length=43341>
+##contig=<ID=GL000244.1,assembly=b37,length=39929>
+##contig=<ID=GL000245.1,assembly=b37,length=36651>
+##contig=<ID=GL000246.1,assembly=b37,length=38154>
+##contig=<ID=GL000247.1,assembly=b37,length=36422>
+##contig=<ID=GL000248.1,assembly=b37,length=39786>
+##contig=<ID=GL000249.1,assembly=b37,length=38502>
+##contig=<ID=MT,assembly=b37,length=16569>
+##contig=<ID=NC_007605,assembly=b37,length=171823>
+##contig=<ID=X,assembly=b37,length=155270560>
+##contig=<ID=Y,assembly=b37,length=59373566>
+##contig=<ID=hs37d5,assembly=b37,length=35477943>
+##fileDate=20150218
+##reference=ftp://ftp.1000genomes.ebi.ac.uk//vol1/ftp/technical/reference/phase2_reference_assembly_sequence/hs37d5.fa.gz
+##source=1000GenomesPhase3Pipeline
+##INFO=<ID=CSQ,Number=.,Type=String,Description="Consequence annotations from Ensembl VEP. Format
+##CAROL=Combined Annotation scoRing toOL prediction
+##LOVD=LOVD variant ID
+##NMD=Nonsense-mediated mRNA decay escaping variants prediction
+##NearestGene=Ensembl identifier of nearest gene
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+20	81154	rs4814683	G	T	100	PASS	AF=0.433706;CSQ=T|intergenic_variant|MODIFIER||||||||||||||||||||
+22	45582	rs541097441	T	C	100	PASS	AF=0.471645;CSQ=C|intergenic_variant|MODIFIER||||||||||||||||||||
+19	54482	rs254245	A	G	100	PASS	AF=0.458067;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+22	45579	rs79422943	C	T	100	PASS	AF=0.471645;CSQ=T|intergenic_variant|MODIFIER||||||||||||||||||||
+22	45569	rs6002629	T	C	100	PASS	AF=0.561901;CSQ=C|intergenic_variant|MODIFIER||||||||||||||||||||
+21	8522952	rs71235075	G	T	100	PASS	AF=0.45607;CSQ=T|intergenic_variant|MODIFIER||||||||||||||||||||
+21	8522769	rs368646645	T	C	100	PASS	AF=0.365415;CSQ=C|intergenic_variant|MODIFIER||||||||||||||||||||
+X	10069	.	T	A	100	PASS	AF=0.316494;CSQ=A|intergenic_variant|MODIFIER||||||||||||||||||||
+20	82590	rs6076506	T	G	100	PASS	AF=0.13099;CSQ=G|upstream_gene_variant|MODIFIER|DEFB125|ENSG00000178591|Transcript|ENST00000608838|protein_coding_CDS_not_defined|||||||||||4660|1||HGNC|HGNC:18105
+22	45580	rs574263560	A	G	100	PASS	AF=0.471645;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+1	6	rs144061675	C	G	100	PASS	AF=0.467053;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+22	45586	rs77989876	T	C	100	PASS	AF=0.486022;CSQ=C|intergenic_variant|MODIFIER||||||||||||||||||||
+X	10112	.	G	C	100	PASS	AF=0.0982428;CSQ=C|intergenic_variant|MODIFIER||||||||||||||||||||
+20	83158	rs1418258	C	T	100	PASS	AF=0.439497;CSQ=T|upstream_gene_variant|MODIFIER|DEFB125|ENSG00000178591|Transcript|ENST00000382410|protein_coding|||||||||||4514|1||HGNC|HGNC:18105,T|upstream_gene_variant|MODIFIER|DEFB125|ENSG00000178591|Transcript|ENST00000608838|protein_coding_CDS_not_defined|||||||||||4092|1||HGNC|HGNC:18105
+X	10184	.	A	G	100	PASS	AF=0.0832668;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+X	10072	.	G	C,T	100	PASS	AF=0.0141773,0.0922524;CSQ=C|intergenic_variant|MODIFIER||||||||||||||||||||,T|intergenic_variant|MODIFIER||||||||||||||||||||
+X	10052	.	T	A	100	PASS	AF=0.315895;CSQ=A|intergenic_variant|MODIFIER||||||||||||||||||||
+3	18519	rs115479960	G	A	100	PASS	AF=0.0523163;CSQ=A|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000656877|lncRNA||1/3||||||||||1||HGNC|HGNC:52817,A|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000659825|lncRNA||1/2||||||||||1||HGNC|HGNC:52817,A|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000660204|lncRNA||2/3||||||||||1||HGNC|HGNC:52817,A|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000660491|lncRNA||1/2||||||||||1||HGNC|HGNC:52817,A|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000661675|lncRNA||2/3||||||||||1||HGNC|HGNC:52817
+3	19366	rs9755941	T	C	100	PASS	AF=0.597644;CSQ=C|upstream_gene_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000440867|lncRNA|||||||||||4391|1||HGNC|HGNC:52817,C|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000656877|lncRNA||1/3||||||||||1||HGNC|HGNC:52817,C|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000659825|lncRNA||1/2||||||||||1||HGNC|HGNC:52817,C|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000660204|lncRNA||2/3||||||||||1||HGNC|HGNC:52817,C|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000660491|lncRNA||1/2||||||||||1||HGNC|HGNC:52817,C|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000661675|lncRNA||2/3||||||||||1||HGNC|HGNC:52817
+4	10642	rs181728567	G	C	100	PASS	AF=0.11242;CSQ=C|intergenic_variant|MODIFIER||||||||||||||||||||
+5	10063	rs569743091	A	C	100	PASS	AF=0.273762;CSQ=C|intergenic_variant|MODIFIER||||||||||||||||||||
+2	10587	rs28804817	C	G	100	PASS	AF=0.132788;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+6	100116	rs181241136	C	A	100	PASS	AF=0.0714856;CSQ=A|downstream_gene_variant|MODIFIER|WBP1LP12|ENSG00000271530|Transcript|ENST00000604449|processed_pseudogene|||||||||||4662|1||HGNC|HGNC:51472
+4	12838	rs2213694	C	G	100	PASS	AF=0.141174;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+4	14131	rs1987708	T	G	100	PASS	AF=0.0994409;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+5	10099	rs574261487	A	C	100	PASS	AF=0.219848;CSQ=C|intergenic_variant|MODIFIER||||||||||||||||||||
+2	10560	rs539817575	G	A	100	PASS	AF=0.154353;CSQ=A|intergenic_variant|MODIFIER||||||||||||||||||||
+5	10219	rs540900285	A	C	100	PASS	AF=0.18151;CSQ=C|intergenic_variant|MODIFIER||||||||||||||||||||
+3	19788	rs13081384	G	C	100	PASS	AF=0.172524;CSQ=C|upstream_gene_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000440867|lncRNA|||||||||||3969|1||HGNC|HGNC:52817,C|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000656877|lncRNA||1/3||||||||||1||HGNC|HGNC:52817,C|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000659825|lncRNA||1/2||||||||||1||HGNC|HGNC:52817,C|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000660204|lncRNA||2/3||||||||||1||HGNC|HGNC:52817,C|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000660491|lncRNA||1/2||||||||||1||HGNC|HGNC:52817,C|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000661675|lncRNA||2/3||||||||||1||HGNC|HGNC:52817
+4	11961	rs6847489	T	C	100	PASS	AF=0.215455;CSQ=C|intergenic_variant|MODIFIER||||||||||||||||||||
+3	19435	rs9756992	A	T	100	PASS	AF=0.571086;CSQ=T|upstream_gene_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000440867|lncRNA|||||||||||4322|1||HGNC|HGNC:52817,T|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000656877|lncRNA||1/3||||||||||1||HGNC|HGNC:52817,T|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000659825|lncRNA||1/2||||||||||1||HGNC|HGNC:52817,T|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000660204|lncRNA||2/3||||||||||1||HGNC|HGNC:52817,T|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000660491|lncRNA||1/2||||||||||1||HGNC|HGNC:52817,T|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000661675|lncRNA||2/3||||||||||1||HGNC|HGNC:52817
+6	63979	rs561313667	C	T	100	PASS	AF=0.0666933;CSQ=T|intergenic_variant|MODIFIER||||||||||||||||||||
+6	63980	rs530120680	A	G	100	PASS	AF=0.0706869;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+5	10056	rs528775171	A	C	100	PASS	AF=0.0910543;CSQ=C|intergenic_variant|MODIFIER||||||||||||||||||||
+6	143500	rs375376040	C	T	100	PASS	AF=0.100839;CSQ=T|non_coding_transcript_exon_variant|MODIFIER|SEPTIN14P6|ENSG00000217929|Transcript|ENST00000406017|transcribed_processed_pseudogene|1/1||||1584|||||||-1||HGNC|HGNC:51690,T|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000293023|Transcript|ENST00000436899|lncRNA||1/2||||||||||-1|||
+5	10231	rs562383594	A	C	100	PASS	AF=0.0726837;CSQ=C|intergenic_variant|MODIFIER||||||||||||||||||||
+4	15346	rs7664765	G	A	100	PASS	AF=0.999601;CSQ=A|intergenic_variant|MODIFIER||||||||||||||||||||
+2	10566	rs561699913	G	A	100	PASS	AF=0.154553;CSQ=A|intergenic_variant|MODIFIER||||||||||||||||||||
+8	61774	rs143233250	A	T	100	PASS	AF=0.643171;CSQ=T|downstream_gene_variant|MODIFIER||ENSG00000253620|Transcript|ENST00000520139|processed_pseudogene|||||||||||2317|-1|||
+8	17120	rs58730252	A	G	100	PASS	AF=0.634385;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+8	61816	rs75979472	T	C	100	PASS	AF=0.654952;CSQ=C|downstream_gene_variant|MODIFIER||ENSG00000253620|Transcript|ENST00000520139|processed_pseudogene|||||||||||2275|-1|||
+6	147596	rs141507289	T	C	100	PASS	AF=0.509385;CSQ=C|upstream_gene_variant|MODIFIER|SEPTIN14P6|ENSG00000217929|Transcript|ENST00000406017|transcribed_processed_pseudogene|||||||||||2513|-1||HGNC|HGNC:51690,C|upstream_gene_variant|MODIFIER||ENSG00000293023|Transcript|ENST00000436899|lncRNA|||||||||||2711|-1|||
+8	71219	rs573635409	A	C	100	PASS	AF=0.0732827;CSQ=C|upstream_gene_variant|MODIFIER||ENSG00000253896|Transcript|ENST00000518652|lncRNA|||||||||||1398|1|||,C|upstream_gene_variant|MODIFIER||ENSG00000253896|Transcript|ENST00000522481|lncRNA|||||||||||1382|1|||
+8	61880	rs138143518	C	T	100	PASS	AF=0.655751;CSQ=T|downstream_gene_variant|MODIFIER||ENSG00000253620|Transcript|ENST00000520139|processed_pseudogene|||||||||||2211|-1|||
+7	20608	rs568080096	A	G	100	PASS	AF=0.835663;CSQ=G|intron_variant&non_coding_transcript_variant|MODIFIER|FAM157D|ENSG00000282572|Transcript|ENST00000633163|lncRNA||3/3||||||||||-1||HGNC|HGNC:56252,G|intron_variant&non_coding_transcript_variant|MODIFIER|FAM157D|ENSG00000282572|Transcript|ENST00000635373|lncRNA||3/3||||||||||-1||HGNC|HGNC:56252,G|upstream_gene_variant|MODIFIER||ENSG00000283061|Transcript|ENST00000635506|lncRNA|||||||||||3706|1|||,G|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000283061|Transcript|ENST00000635602|lncRNA||1/1||||||||||1|||
+7	24220	rs377764175	G	T	100	PASS	AF=0.5625;CSQ=T|intron_variant&non_coding_transcript_variant|MODIFIER|FAM157D|ENSG00000282572|Transcript|ENST00000633163|lncRNA||2/3||||||||||-1||HGNC|HGNC:56252,T|intron_variant&non_coding_transcript_variant|MODIFIER|FAM157D|ENSG00000282572|Transcript|ENST00000635373|lncRNA||2/3||||||||||-1||HGNC|HGNC:56252,T|upstream_gene_variant|MODIFIER||ENSG00000283061|Transcript|ENST00000635506|lncRNA|||||||||||94|1|||,T|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000283061|Transcript|ENST00000635602|lncRNA||1/1||||||||||1|||
+9	10469	rs56377469	G	C	100	PASS	AF=0.713858;CSQ=C|upstream_gene_variant|MODIFIER|DDX11L5|ENSG00000236875|Transcript|ENST00000421620|unprocessed_pseudogene|||||||||||1665|1||HGNC|HGNC:37106,C|downstream_gene_variant|MODIFIER|WASHC1|ENSG00000181404|Transcript|ENST00000442898|protein_coding|||||||||||4006|-1||HGNC|HGNC:24361,C|downstream_gene_variant|MODIFIER|WASHC1|ENSG00000181404|Transcript|ENST00000696149|protein_coding|||||||||||4044|-1||HGNC|HGNC:24361
+7	16692	rs370739206	G	C	100	PASS	AF=1;CSQ=C|downstream_gene_variant|MODIFIER|FAM157D|ENSG00000282572|Transcript|ENST00000633163|lncRNA|||||||||||2927|-1||HGNC|HGNC:56252,C|downstream_gene_variant|MODIFIER|FAM157D|ENSG00000282572|Transcript|ENST00000635373|lncRNA|||||||||||2326|-1||HGNC|HGNC:56252,C|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000283061|Transcript|ENST00000635602|lncRNA||1/1||||||||||1|||
+1	542	rs113899450	G	A,T	100	PASS	AF=0.110024,0.211661;CSQ=A|intergenic_variant|MODIFIER||||||||||||||||||||,T|intergenic_variant|MODIFIER||||||||||||||||||||
+9	14863	rs71509923	A	C,G	100	PASS	AF=0.0061901,0.209065;CSQ=C|downstream_gene_variant|MODIFIER|DDX11L5|ENSG00000236875|Transcript|ENST00000421620|unprocessed_pseudogene|||||||||||1080|1||HGNC|HGNC:37106,G|downstream_gene_variant|MODIFIER|DDX11L5|ENSG00000236875|Transcript|ENST00000421620|unprocessed_pseudogene|||||||||||1080|1||HGNC|HGNC:37106,C|missense_variant|MODERATE|WASHC1|ENSG00000181404|Transcript|ENST00000442898|protein_coding|11/11||||1485|1342|448|L/V|Ttg/Gtg|||-1||HGNC|HGNC:24361,G|synonymous_variant|LOW|WASHC1|ENSG00000181404|Transcript|ENST00000442898|protein_coding|11/11||||1485|1342|448|L|Ttg/Ctg|||-1||HGNC|HGNC:24361,C|missense_variant|MODERATE|WASHC1|ENSG00000181404|Transcript|ENST00000696149|protein_coding|11/11||||1492|1342|448|L/V|Ttg/Gtg|||-1||HGNC|HGNC:24361,G|synonymous_variant|LOW|WASHC1|ENSG00000181404|Transcript|ENST00000696149|protein_coding|11/11||||1492|1342|448|L|Ttg/Ctg|||-1||HGNC|HGNC:24361,C|downstream_gene_variant|MODIFIER|WASHC1|ENSG00000181404|Transcript|ENST00000696150|protein_coding_CDS_not_defined|||||||||||1046|-1||HGNC|HGNC:24361,G|downstream_gene_variant|MODIFIER|WASHC1|ENSG00000181404|Transcript|ENST00000696150|protein_coding_CDS_not_defined|||||||||||1046|-1||HGNC|HGNC:24361,C|downstream_gene_variant|MODIFIER|WASHC1|ENSG00000181404|Transcript|ENST00000696151|nonsense_mediated_decay|||||||||||1698|-1||HGNC|HGNC:24361,G|downstream_gene_variant|MODIFIER|WASHC1|ENSG00000181404|Transcript|ENST00000696151|nonsense_mediated_decay|||||||||||1698|-1||HGNC|HGNC:24361
+9	14690	rs62530146	C	G	100	PASS	AF=0.515974;CSQ=G|downstream_gene_variant|MODIFIER|DDX11L5|ENSG00000236875|Transcript|ENST00000421620|unprocessed_pseudogene|||||||||||907|1||HGNC|HGNC:37106,G|3_prime_UTR_variant|MODIFIER|WASHC1|ENSG00000181404|Transcript|ENST00000442898|protein_coding|11/11||||1658|||||||-1||HGNC|HGNC:24361,G|3_prime_UTR_variant|MODIFIER|WASHC1|ENSG00000181404|Transcript|ENST00000696149|protein_coding|11/11||||1665|||||||-1||HGNC|HGNC:24361,G|downstream_gene_variant|MODIFIER|WASHC1|ENSG00000181404|Transcript|ENST00000696150|protein_coding_CDS_not_defined|||||||||||1219|-1||HGNC|HGNC:24361,G|downstream_gene_variant|MODIFIER|WASHC1|ENSG00000181404|Transcript|ENST00000696151|nonsense_mediated_decay|||||||||||1871|-1||HGNC|HGNC:24361
+7	31273	rs68115332	G	C	100	PASS	AF=0.0714856;CSQ=C|downstream_gene_variant|MODIFIER|FAM157D|ENSG00000282572|Transcript|ENST00000632586|lncRNA|||||||||||117|-1||HGNC|HGNC:56252,C|non_coding_transcript_exon_variant|MODIFIER|FAM157D|ENSG00000282572|Transcript|ENST00000633163|lncRNA|2/4||||457|||||||-1||HGNC|HGNC:56252,C|upstream_gene_variant|MODIFIER|FAM157D|ENSG00000282572|Transcript|ENST00000635373|lncRNA|||||||||||79|-1||HGNC|HGNC:56252,C|downstream_gene_variant|MODIFIER||ENSG00000283061|Transcript|ENST00000635506|lncRNA|||||||||||4039|1|||,C|downstream_gene_variant|MODIFIER||ENSG00000283061|Transcript|ENST00000635602|lncRNA|||||||||||4074|1|||,C|downstream_gene_variant|MODIFIER|FAM157D|ENSG00000282572|Transcript|ENST00000692479|lncRNA|||||||||||2211|-1||HGNC|HGNC:56252,C|downstream_gene_variant|MODIFIER|FAM157D|ENSG00000282572|Transcript|ENST00000702206|lncRNA|||||||||||2211|-1||HGNC|HGNC:56252
+9	14889	rs71509924	A	G	100	PASS	AF=0.483826;CSQ=G|downstream_gene_variant|MODIFIER|DDX11L5|ENSG00000236875|Transcript|ENST00000421620|unprocessed_pseudogene|||||||||||1106|1||HGNC|HGNC:37106,G|missense_variant|MODERATE|WASHC1|ENSG00000181404|Transcript|ENST00000442898|protein_coding|11/11||||1459|1316|439|V/A|gTc/gCc|||-1||HGNC|HGNC:24361,G|missense_variant|MODERATE|WASHC1|ENSG00000181404|Transcript|ENST00000696149|protein_coding|11/11||||1466|1316|439|V/A|gTc/gCc|||-1||HGNC|HGNC:24361,G|downstream_gene_variant|MODIFIER|WASHC1|ENSG00000181404|Transcript|ENST00000696150|protein_coding_CDS_not_defined|||||||||||1020|-1||HGNC|HGNC:24361,G|downstream_gene_variant|MODIFIER|WASHC1|ENSG00000181404|Transcript|ENST00000696151|nonsense_mediated_decay|||||||||||1672|-1||HGNC|HGNC:24361
+7	27916	rs577290214	T	C	100	PASS	AF=0.115415;CSQ=C|downstream_gene_variant|MODIFIER|FAM157D|ENSG00000282572|Transcript|ENST00000632586|lncRNA|||||||||||3474|-1||HGNC|HGNC:56252,C|intron_variant&non_coding_transcript_variant|MODIFIER|FAM157D|ENSG00000282572|Transcript|ENST00000633163|lncRNA||2/3||||||||||-1||HGNC|HGNC:56252,C|intron_variant&non_coding_transcript_variant|MODIFIER|FAM157D|ENSG00000282572|Transcript|ENST00000635373|lncRNA||1/3||||||||||-1||HGNC|HGNC:56252,C|downstream_gene_variant|MODIFIER||ENSG00000283061|Transcript|ENST00000635506|lncRNA|||||||||||682|1|||,C|downstream_gene_variant|MODIFIER||ENSG00000283061|Transcript|ENST00000635602|lncRNA|||||||||||717|1|||
+9	15883	rs71235269	A	G	100	PASS	AF=0.277955;CSQ=G|downstream_gene_variant|MODIFIER|DDX11L5|ENSG00000236875|Transcript|ENST00000421620|unprocessed_pseudogene|||||||||||2100|1||HGNC|HGNC:37106,G|intron_variant|MODIFIER|WASHC1|ENSG00000181404|Transcript|ENST00000442898|protein_coding||9/10||||||||||-1||HGNC|HGNC:24361,G|intron_variant|MODIFIER|WASHC1|ENSG00000181404|Transcript|ENST00000696149|protein_coding||9/10||||||||||-1||HGNC|HGNC:24361,G|downstream_gene_variant|MODIFIER|WASHC1|ENSG00000181404|Transcript|ENST00000696150|protein_coding_CDS_not_defined|||||||||||26|-1||HGNC|HGNC:24361,G|downstream_gene_variant|MODIFIER|WASHC1|ENSG00000181404|Transcript|ENST00000696151|nonsense_mediated_decay|||||||||||678|-1||HGNC|HGNC:24361
+13	18445955	rs140871821	C	T	100	PASS	AF=0.0563099;CSQ=T|intergenic_variant|MODIFIER||||||||||||||||||||
+10	20364	rs12260013	A	G	100	PASS	AF=0.0748802;CSQ=G|upstream_gene_variant|MODIFIER||ENSG00000260370|Transcript|ENST00000562162|lncRNA|||||||||||3815|-1|||,G|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000260370|Transcript|ENST00000566940|lncRNA||1/2||||||||||-1|||,G|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000260370|Transcript|ENST00000682078|lncRNA||1/3||||||||||-1|||,G|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000260370|Transcript|ENST00000683798|lncRNA||1/2||||||||||-1|||
+10	15479	rs553163044	G	A	100	PASS	AF=0.0533147;CSQ=A|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000260370|Transcript|ENST00000562162|lncRNA||1/2||||||||||-1|||,A|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000260370|Transcript|ENST00000566940|lncRNA||2/2||||||||||-1|||,A|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000260370|Transcript|ENST00000682078|lncRNA||2/3||||||||||-1|||,A|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000260370|Transcript|ENST00000683798|lncRNA||2/2||||||||||-1|||
+14	35618	rs11846823	C	G	100	PASS	AF=0.176717;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+2	10554	rs573105930	G	A	100	PASS	AF=0.154553;CSQ=A|intergenic_variant|MODIFIER||||||||||||||||||||
+10	15029	rs61838556	C	A	100	PASS	AF=0.484824;CSQ=A|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000260370|Transcript|ENST00000562162|lncRNA||1/2||||||||||-1|||,A|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000260370|Transcript|ENST00000566940|lncRNA||2/2||||||||||-1|||,A|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000260370|Transcript|ENST00000682078|lncRNA||2/3||||||||||-1|||,A|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000260370|Transcript|ENST00000683798|lncRNA||2/2||||||||||-1|||
+10	19939	rs28887774	C	G	100	PASS	AF=0.594249;CSQ=G|upstream_gene_variant|MODIFIER||ENSG00000260370|Transcript|ENST00000562162|lncRNA|||||||||||3390|-1|||,G|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000260370|Transcript|ENST00000566940|lncRNA||1/2||||||||||-1|||,G|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000260370|Transcript|ENST00000682078|lncRNA||1/3||||||||||-1|||,G|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000260370|Transcript|ENST00000683798|lncRNA||1/2||||||||||-1|||
+10	18828	rs61838558	C	T	100	PASS	AF=0.590655;CSQ=T|upstream_gene_variant|MODIFIER||ENSG00000260370|Transcript|ENST00000562162|lncRNA|||||||||||2279|-1|||,T|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000260370|Transcript|ENST00000566940|lncRNA||1/2||||||||||-1|||,T|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000260370|Transcript|ENST00000682078|lncRNA||1/3||||||||||-1|||,T|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000260370|Transcript|ENST00000683798|lncRNA||1/2||||||||||-1|||
+12	10192	rs528074919	T	A	100	PASS	AF=0.355032;CSQ=A|downstream_gene_variant|MODIFIER|WASH8P|ENSG00000226210|Transcript|ENST00000400706|unprocessed_pseudogene|||||||||||4330|-1||HGNC|HGNC:53913,A|upstream_gene_variant|MODIFIER|DDX11L8|ENSG00000256263|Transcript|ENST00000535849|unprocessed_pseudogene|||||||||||2118|1||HGNC|HGNC:37101
+12	10194	rs570599257	G	T	100	PASS	AF=0.160144;CSQ=T|downstream_gene_variant|MODIFIER|WASH8P|ENSG00000226210|Transcript|ENST00000400706|unprocessed_pseudogene|||||||||||4328|-1||HGNC|HGNC:53913,T|upstream_gene_variant|MODIFIER|DDX11L8|ENSG00000256263|Transcript|ENST00000535849|unprocessed_pseudogene|||||||||||2116|1||HGNC|HGNC:37101
+12	10278	rs369144278	G	T	100	PASS	AF=0.499201;CSQ=T|downstream_gene_variant|MODIFIER|WASH8P|ENSG00000226210|Transcript|ENST00000400706|unprocessed_pseudogene|||||||||||4244|-1||HGNC|HGNC:53913,T|upstream_gene_variant|MODIFIER|DDX11L8|ENSG00000256263|Transcript|ENST00000535849|unprocessed_pseudogene|||||||||||2032|1||HGNC|HGNC:37101
+13	18446635	rs11149434	T	G	100	PASS	AF=0.767173;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+13	18446487	rs12018140	A	G	100	PASS	AF=0.766174;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+14	425025	rs80214206	T	C	100	PASS	AF=0.139177;CSQ=C|intergenic_variant|MODIFIER||||||||||||||||||||
+11	102905	rs370363256	C	G	100	PASS	AF=0.0748802;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+1	148	rs61815251	T	G	100	PASS	AF=0.546526;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+11	87268	rs574324672	T	C	100	PASS	AF=0.227436;CSQ=C|non_coding_transcript_exon_variant|MODIFIER|OR4F2P|ENSG00000224777|Transcript|ENST00000424047|unprocessed_pseudogene|1/1||||319|||||||-1||HGNC|HGNC:8299
+11	123350	rs61869643	C	T	100	PASS	AF=0.304513;CSQ=T|downstream_gene_variant|MODIFIER|LINC01001|ENSG00000230724|Transcript|ENST00000526704|lncRNA|||||||||||3854|-1||HGNC|HGNC:38540,T|non_coding_transcript_exon_variant|MODIFIER|CICP23|ENSG00000270921|Transcript|ENST00000605013|processed_pseudogene|1/2||||39|||||||1||HGNC|HGNC:48833,T|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000254468|Transcript|ENST00000622626|lncRNA||1/2||||||||||-1|||
+11	103253	rs61869635	T	C	100	PASS	AF=0.589657;CSQ=C|intergenic_variant|MODIFIER||||||||||||||||||||
+13	18446697	rs182776109	G	T	100	PASS	AF=0.0569089;CSQ=T|intergenic_variant|MODIFIER||||||||||||||||||||
+14	479801	rs77238211	G	C	100	PASS	AF=0.167931;CSQ=C|intergenic_variant|MODIFIER||||||||||||||||||||
+12	10559	rs563842882	G	A	100	PASS	AF=0.569089;CSQ=A|downstream_gene_variant|MODIFIER|WASH8P|ENSG00000226210|Transcript|ENST00000400706|unprocessed_pseudogene|||||||||||3963|-1||HGNC|HGNC:53913,A|upstream_gene_variant|MODIFIER|DDX11L8|ENSG00000256263|Transcript|ENST00000535849|unprocessed_pseudogene|||||||||||1751|1||HGNC|HGNC:37101
+15	1842	rs76136367	A	C	100	PASS	AF=1;CSQ=C|intergenic_variant|MODIFIER||||||||||||||||||||
+13	18446716	rs140166094	G	A	100	PASS	AF=0.0780751;CSQ=A|intergenic_variant|MODIFIER||||||||||||||||||||
+11	124655	rs568309688	C	A	100	PASS	AF=0.205072;CSQ=A|downstream_gene_variant|MODIFIER|LINC01001|ENSG00000230724|Transcript|ENST00000526704|lncRNA|||||||||||2549|-1||HGNC|HGNC:38540,A|upstream_gene_variant|MODIFIER||ENSG00000255229|Transcript|ENST00000527297|lncRNA|||||||||||4624|1|||,A|non_coding_transcript_exon_variant|MODIFIER|CICP23|ENSG00000270921|Transcript|ENST00000605013|processed_pseudogene|1/2||||1344|||||||1||HGNC|HGNC:48833,A|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000254468|Transcript|ENST00000622626|lncRNA||1/2||||||||||-1|||
+12	10718	rs142094517	T	C	100	PASS	AF=0.604832;CSQ=C|downstream_gene_variant|MODIFIER|WASH8P|ENSG00000226210|Transcript|ENST00000400706|unprocessed_pseudogene|||||||||||3804|-1||HGNC|HGNC:53913,C|upstream_gene_variant|MODIFIER|DDX11L8|ENSG00000256263|Transcript|ENST00000535849|unprocessed_pseudogene|||||||||||1592|1||HGNC|HGNC:37101
+1	540	rs201082708	G	C	100	PASS	AF=0.248003;CSQ=C|intergenic_variant|MODIFIER||||||||||||||||||||
+14	425398	rs190248779	A	G	100	PASS	AF=0.170128;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+15	4506	rs140246711	G	A	100	PASS	AF=0.226238;CSQ=A|intergenic_variant|MODIFIER||||||||||||||||||||
+14	479777	rs76899215	C	T	100	PASS	AF=0.628195;CSQ=T|intergenic_variant|MODIFIER||||||||||||||||||||
+15	7671	rs148258055	G	A	100	PASS	AF=0.261581;CSQ=A|intergenic_variant|MODIFIER||||||||||||||||||||
+15	5926	rs201259607	G	T	100	PASS	AF=0.237819;CSQ=T|intergenic_variant|MODIFIER||||||||||||||||||||
+15	5841	rs199949502	T	C	100	PASS	AF=0.535144;CSQ=C|intergenic_variant|MODIFIER||||||||||||||||||||
+17	142688	rs62078202	A	G	100	PASS	AF=0.776358;CSQ=G|downstream_gene_variant|MODIFIER|SCGB1C2|ENSG00000268320|Transcript|ENST00000595228|protein_coding|||||||||||3621|1||HGNC|HGNC:51242,G|downstream_gene_variant|MODIFIER|DOC2B|ENSG00000272636|Transcript|ENST00000613549|protein_coding|||||||||||101|-1||HGNC|HGNC:2986,G|downstream_gene_variant|MODIFIER|DOC2B|ENSG00000272636|Transcript|ENST00000697390|protein_coding|||||||||||101|-1||HGNC|HGNC:2986
+17	152427	rs17055023	G	A	100	PASS	AF=0.81849;CSQ=A|downstream_gene_variant|MODIFIER|DOC2B|ENSG00000272636|Transcript|ENST00000343572|retained_intron|||||||||||3592|-1||HGNC|HGNC:2986,A|intron_variant|MODIFIER|DOC2B|ENSG00000272636|Transcript|ENST00000613549|protein_coding||6/8||||||||||-1||HGNC|HGNC:2986,A|intron_variant|MODIFIER|DOC2B|ENSG00000272636|Transcript|ENST00000697390|protein_coding||7/9||||||||||-1||HGNC|HGNC:2986
+17	152087	rs77383171	C	T	100	PASS	AF=0.171725;CSQ=T|downstream_gene_variant|MODIFIER|DOC2B|ENSG00000272636|Transcript|ENST00000343572|retained_intron|||||||||||3932|-1||HGNC|HGNC:2986,T|intron_variant|MODIFIER|DOC2B|ENSG00000272636|Transcript|ENST00000613549|protein_coding||6/8||||||||||-1||HGNC|HGNC:2986,T|intron_variant|MODIFIER|DOC2B|ENSG00000272636|Transcript|ENST00000697390|protein_coding||7/9||||||||||-1||HGNC|HGNC:2986
+17	151035	rs62053745	T	C	100	PASS	AF=0.742412;CSQ=C|downstream_gene_variant|MODIFIER|DOC2B|ENSG00000272636|Transcript|ENST00000343572|retained_intron|||||||||||4984|-1||HGNC|HGNC:2986,C|intron_variant|MODIFIER|DOC2B|ENSG00000272636|Transcript|ENST00000613549|protein_coding||6/8||||||||||-1||HGNC|HGNC:2986,C|intron_variant|MODIFIER|DOC2B|ENSG00000272636|Transcript|ENST00000697390|protein_coding||7/9||||||||||-1||HGNC|HGNC:2986
+2	10574	rs544317244	C	G	100	PASS	AF=0.0609026;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+18	16444	rs79407393	T	G	100	PASS	AF=0.515176;CSQ=G|intron_variant&non_coding_transcript_variant|MODIFIER||ENSG00000263305|Transcript|ENST00000572062|lncRNA||1/1||||||||||-1|||,G|downstream_gene_variant|MODIFIER|LINC02564|ENSG00000262352|Transcript|ENST00000572573|lncRNA|||||||||||92|1||HGNC|HGNC:53604,G|upstream_gene_variant|MODIFIER||ENSG00000263305|Transcript|ENST00000572608|lncRNA|||||||||||1486|-1|||,G|downstream_gene_variant|MODIFIER|LINC02564|ENSG00000262352|Transcript|ENST00000575820|lncRNA|||||||||||622|1||HGNC|HGNC:53604
+18	20683	rs141511643	A	G	100	PASS	AF=0.223642;CSQ=G|upstream_gene_variant|MODIFIER||ENSG00000263305|Transcript|ENST00000572062|lncRNA|||||||||||3785|-1|||,G|downstream_gene_variant|MODIFIER|LINC02564|ENSG00000262352|Transcript|ENST00000572573|lncRNA|||||||||||4331|1||HGNC|HGNC:53604,G|downstream_gene_variant|MODIFIER|LINC02564|ENSG00000262352|Transcript|ENST00000575820|lncRNA|||||||||||4861|1||HGNC|HGNC:53604
+16	10291	rs76368850	T	C	100	PASS	AF=0.699681;CSQ=C|upstream_gene_variant|MODIFIER|DDX11L10|ENSG00000233614|Transcript|ENST00000430178|transcribed_unprocessed_pseudogene|||||||||||1570|1||HGNC|HGNC:14125,C|upstream_gene_variant|MODIFIER|DDX11L16|ENSG00000290355|Transcript|ENST00000513886|lncRNA|||||||||||1264|1||EntrezGene|,C|downstream_gene_variant|MODIFIER|WASH4P|ENSG00000234769|Transcript|ENST00000564273|unprocessed_pseudogene|||||||||||4090|-1||HGNC|HGNC:14126
+16	10842	rs542544747	A	C	100	PASS	AF=0.639377;CSQ=C|upstream_gene_variant|MODIFIER|DDX11L10|ENSG00000233614|Transcript|ENST00000430178|transcribed_unprocessed_pseudogene|||||||||||1019|1||HGNC|HGNC:14125,C|upstream_gene_variant|MODIFIER|DDX11L16|ENSG00000290355|Transcript|ENST00000513886|lncRNA|||||||||||713|1||EntrezGene|,C|downstream_gene_variant|MODIFIER|WASH4P|ENSG00000234769|Transcript|ENST00000564273|unprocessed_pseudogene|||||||||||3539|-1||HGNC|HGNC:14126
+18	22048	rs549226464	A	G	100	PASS	AF=0.0726837;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+17	151041	rs9747082	G	A	100	PASS	AF=0.820487;CSQ=A|downstream_gene_variant|MODIFIER|DOC2B|ENSG00000272636|Transcript|ENST00000343572|retained_intron|||||||||||4978|-1||HGNC|HGNC:2986,A|intron_variant|MODIFIER|DOC2B|ENSG00000272636|Transcript|ENST00000613549|protein_coding||6/8||||||||||-1||HGNC|HGNC:2986,A|intron_variant|MODIFIER|DOC2B|ENSG00000272636|Transcript|ENST00000697390|protein_coding||7/9||||||||||-1||HGNC|HGNC:2986
+18	23457	rs62075686	C	T	100	PASS	AF=0.194688;CSQ=T|intergenic_variant|MODIFIER||||||||||||||||||||
+16	11730	rs201731689	C	G	100	PASS	AF=0.568291;CSQ=G|upstream_gene_variant|MODIFIER|DDX11L10|ENSG00000233614|Transcript|ENST00000430178|transcribed_unprocessed_pseudogene|||||||||||131|1||HGNC|HGNC:14125,G|non_coding_transcript_exon_variant|MODIFIER|DDX11L16|ENSG00000290355|Transcript|ENST00000513886|lncRNA|1/3||||176|||||||1||EntrezGene|,G|downstream_gene_variant|MODIFIER|WASH4P|ENSG00000234769|Transcript|ENST00000564273|unprocessed_pseudogene|||||||||||2651|-1||HGNC|HGNC:14126
+21	8522577	rs78200054	C	T	100	PASS	AF=0.466853;CSQ=T|intergenic_variant|MODIFIER||||||||||||||||||||
+18	22109	rs117831433	T	G	100	PASS	AF=0.154353;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+3	18918	rs13067307	C	A	100	PASS	AF=0.559105;CSQ=A|upstream_gene_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000440867|lncRNA|||||||||||4839|1||HGNC|HGNC:52817,A|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000656877|lncRNA||1/3||||||||||1||HGNC|HGNC:52817,A|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000659825|lncRNA||1/2||||||||||1||HGNC|HGNC:52817,A|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000660204|lncRNA||2/3||||||||||1||HGNC|HGNC:52817,A|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000660491|lncRNA||1/2||||||||||1||HGNC|HGNC:52817,A|intron_variant&non_coding_transcript_variant|MODIFIER|LINC01986|ENSG00000223587|Transcript|ENST00000661675|lncRNA||2/3||||||||||1||HGNC|HGNC:52817
+16	11349	rs4021615	G	A	100	PASS	AF=0.711861;CSQ=A|upstream_gene_variant|MODIFIER|DDX11L10|ENSG00000233614|Transcript|ENST00000430178|transcribed_unprocessed_pseudogene|||||||||||512|1||HGNC|HGNC:14125,A|upstream_gene_variant|MODIFIER|DDX11L16|ENSG00000290355|Transcript|ENST00000513886|lncRNA|||||||||||206|1||EntrezGene|,A|downstream_gene_variant|MODIFIER|WASH4P|ENSG00000234769|Transcript|ENST00000564273|unprocessed_pseudogene|||||||||||3032|-1||HGNC|HGNC:14126
+19	54514	rs187436752	A	G	100	PASS	AF=0.167133;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+21	8522812	rs71235074	A	G	100	PASS	AF=0.44349;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+19	84292	rs10416800	C	T	100	PASS	AF=0.45008;CSQ=T|intergenic_variant|MODIFIER||||||||||||||||||||
+19	91106	rs2531248	A	C	100	PASS	AF=0.997804;CSQ=C|upstream_gene_variant|MODIFIER|OR4G3P|ENSG00000282137|Transcript|ENST00000633500|unprocessed_pseudogene|||||||||||2956|1||HGNC|HGNC:8304
+20	80457	rs6078030	C	T	100	PASS	AF=0.287141;CSQ=T|intergenic_variant|MODIFIER||||||||||||||||||||
+19	84293	rs10418335	T	C	100	PASS	AF=0.45008;CSQ=C|intergenic_variant|MODIFIER||||||||||||||||||||
+16	11977	rs572534626	C	G	100	PASS	AF=0.486022;CSQ=G|intron_variant&non_coding_transcript_variant|MODIFIER|DDX11L10|ENSG00000233614|Transcript|ENST00000430178|transcribed_unprocessed_pseudogene||1/4||||||||||1||HGNC|HGNC:14125,G|intron_variant&non_coding_transcript_variant|MODIFIER|DDX11L16|ENSG00000290355|Transcript|ENST00000513886|lncRNA||1/2||||||||||1||EntrezGene|,G|downstream_gene_variant|MODIFIER|WASH4P|ENSG00000234769|Transcript|ENST00000564273|unprocessed_pseudogene|||||||||||2404|-1||HGNC|HGNC:14126
+21	8522667	rs71235073	G	T	100	PASS	AF=0.459065;CSQ=T|intergenic_variant|MODIFIER||||||||||||||||||||
+20	82603	rs6139074	A	C	100	PASS	AF=0.218251;CSQ=C|upstream_gene_variant|MODIFIER|DEFB125|ENSG00000178591|Transcript|ENST00000608838|protein_coding_CDS_not_defined|||||||||||4647|1||HGNC|HGNC:18105
+1	5	rs138647955	T	G	100	PASS	AF=0.104633;CSQ=G|intergenic_variant|MODIFIER||||||||||||||||||||
+17	152427	rs17055023	G	A	100	PASS	AF=0.81849;CSQ=A|downstream_gene_variant|MODIFIER|DOC2B|ENSG00000272636|Transcript|ENST00000343572|retained_intron|||||
