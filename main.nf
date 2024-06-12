@@ -1,16 +1,16 @@
 
-include { CCDSFilter } from './modules/local/CCDSFilter'
-include { CSN } from './modules/local/CSN'
-include { Carol } from './modules/local/Carol'
-include { Downstream } from './modules/local/Downstream'
-include { Draw } from './modules/local/Draw'
-include { GXA } from './modules/local/GXA'
-include { LOVD } from './modules/local/LOVD'
-include { NMD } from './modules/local/NMD'
-include { NearestGene } from './modules/local/NearestGene'
-include { AncestralAllele } from './modules/local/AncestralAllele'
-include { makeHeader } from './modules/local/makeHeader'
-include { CompileVCF } from './modules/local/CompileVCF'
+include { CCDSFilter } from './modules/local/CCDSFilter' // filter vcf
+include { CSN } from './modules/local/CSN'   // annotate clinical sequencing nominclature
+include { Carol } from './modules/local/Carol' //annotate CARLOL score
+include { Downstream } from './modules/local/Downstream' // downstream AA effect predictor
+include { Draw } from './modules/local/Draw' // draw transcript model
+include { GXA } from './modules/local/GXA' //  gene expression atlas data
+include { LOVD } from './modules/local/LOVD' // LOVD variation data
+include { NMD } from './modules/local/NMD' // predict nonsense-mediated mRNA decay escape
+include { NearestGene } from './modules/local/NearestGene' // finds nearest gene to variant
+include { AncestralAllele } from './modules/local/AncestralAllele' // retrive ancestral allele
+include { makeHeader } from './modules/local/makeHeader' // attach header
+include { CompileVCF } from './modules/local/CompileVCF' // recreate vcf
 
 
 workflow {
