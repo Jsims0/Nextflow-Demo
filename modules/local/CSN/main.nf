@@ -1,4 +1,5 @@
 process CSN {
+   //VEP pluginthat reports Clinical Sequencing Nomenclature (CSN) for variants
 
    input:
    path(in_vcf)

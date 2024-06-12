@@ -1,8 +1,8 @@
 nextflow_process {
 
-    name "Test Process CCDSFilter"
-    script "modules/local/CCDSFilter/main.nf"
-    process "CCDSFilter"
+    name "Test Process CSN"
+    script "modules/local/CSN/main.nf"
+    process "CSN"
 
     test("Should run without failures") {
 
@@ -21,7 +21,7 @@ nextflow_process {
 
         then {
             assert process.success
-            //assert snapshot(process.out).match()
+            assert snapshot(process.out).match()
         }
 
     }
